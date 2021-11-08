@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "928182193629",
+    "project_id": "pmms-official",
+    "storage_bucket": "pmms-official.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928182193629:android:02d57b9d115ae4b98aba34",
+        "android_client_info": {
+          "package_name": "com.example.pmms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928182193629-2bkupas46dek6p6e3ve6c1vhm5ppi5p2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pmms",
+            "certificate_hash": "13262ccf4ce8cfcace8bdafced0435ebee44a661"
+          }
+        },
+        {
+          "client_id": "928182193629-9petsljofohc020ktn840v09ihf98e1u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdwgAZb6OSzksypBv0OlapWk4_KLeUBrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928182193629-9petsljofohc020ktn840v09ihf98e1u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
